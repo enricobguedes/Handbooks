@@ -36,7 +36,7 @@ Sintaxe básica
 		>	TODAS as classes tem um construtor
 		>	Usando palavra new para invocar novo objeto
 		>	Exemplo:
-			public Cachorro (String nome) {				//Construtor
+			public Cachorro (String nome) {			//Construtor
 			system.out.println("O nome é: " + nome);	// 
 			}
 			public static void main (String []args) {	//Criando
@@ -53,10 +53,10 @@ Sintaxe básica
 		>	Descreve o comportamento de um objeto
 		*	Devem ser escritos com a primeira letra maiúscula
 
-	- Herança						   |	Interface 
-		>	Super classe = classe pai  |		>	Ponto de contato entre pai e filha
-		>	Sub classe = classe filha  |		>	Define quais metodos classe filha
-		*	Usando extends  		   |			deve usar
+	- Herança				   |	Interface 
+		>	Super classe = classe pai  |	>	Ponto de contato entre pai e filha
+		>	Sub classe = classe filha  |	>	Define quais metodos classe filha
+		*	Usando extends  	   |		deve usar
 
 	- Override
 		> 	Construtores não podem ser @Override
